@@ -4,7 +4,7 @@
 
 **SISTEMAS EMBEBIDOS**
 
-🐱**DOGGY POPPY**💩
+🐕**DOGGY POPPY**💩
  
 ***
 **EQUIPO**
