@@ -32,7 +32,7 @@ Para ejecutar el servidor es necesario realizar los siguientes comandos:
 $ npm install
 $ node server.js
 ```
-Para ejecutar el ESP8266 + GPS se corre el documento *GSP_Server* en el IDE de Arduino. 
+Para ejecutar el ESP8266 + GPS se corre el documento *GSP_ESP8266_Client.ino* en el IDE de Arduino. 
 
 ***
 ### Para información más detallada, visitar la [Wiki](https://github.com/JanAlvaro/DoggyPoppy/wiki) de este proyecto.
