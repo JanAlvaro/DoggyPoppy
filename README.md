@@ -1,5 +1,5 @@
 ***
-![Logo de DoggyPoppy](https://github.com/JanAlvaro/DoggyPoppy/blob/master/Docs/poppy_logo.png)
+![Logo de DoggyPoppy](https://github.com/JanAlvaro/DoggyPoppy/blob/master/Docs/Images/poppy_logo.png)
 ## **UNIVERSIDAD NACIONAL DE COLOMBIA**
 **DEPARTAMENTO DE INGENIERÍA ELÉCTRICA Y ELECTRÓNICA**
 
