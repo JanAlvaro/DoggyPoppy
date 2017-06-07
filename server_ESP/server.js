@@ -18,9 +18,14 @@ app.get('/GeoJSONP.js', function (req, res) {
    res.sendFile( __dirname + "/" + "GeoJSONP.js" );
 })
 
-app.get('/', function(req, res) {
-  res.send('HTTP ESP8266 Test Server')
-});
+app.get('/', function (req, res) {
+   res.sendFile( __dirname + "/" + "home.html" );
+})
+
+
+//app.get('/', function(req, res) {
+//  res.send('HTTP ESP8266 Test Server')
+//});
 
 app.use('/location', function (req, res, next) {
 
